@@ -48,6 +48,7 @@ index.html main stylesheeet
 }
 
 header {
+
 }
 
 body {
@@ -55,7 +56,9 @@ body {
 }
 
 a {
-
+	text-decoration: none;
+	color: white;
+	text-shadow: 2px 2px 6px #000000;
 }
 
 p {
@@ -81,12 +84,37 @@ li {
 *******************************/
 
 .hero {
-	font-family: "diavlo_bold";
 	background-color: #70798C;
 	color: white;
-	height: 100px;
+	height: 100px;	
 	align-items: center;
 	display: flex;
+}
+
+.hero h1 {
+	font-family: "diavlo_bold";
+	padding-left: 20px;
+}
+
+.hero-span {
+
+}
+
+.hero-ul {
+	font-family: "diavlo_bold";
+	padding-top: 40px;
+}
+
+.hero-li {
+	list-style-type: none;
+	display: inline;
+	padding-right: 20px;
+}
+
+.hero-image {
+	width: 5pc;
+	height: 80px;
+	padding-left: 60px;
 }
 
 /******************************
