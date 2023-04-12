@@ -10,7 +10,7 @@
 
 - 💡&nbsp;I'm passionate about effective collaboration and meaningful communication
 - 🔭&nbsp;I’m currently working on an ecommerce site built with TypeScript, Next.js, GraphQL, Apollo, Keystone, and Node.js
-- 🌱&nbsp;I’m currently working my way through a postgraduate program learing how to leverage AI and ML for business applications
+- 🌱&nbsp;I’m currently enrolled in a postgraduate program learning how to leverage AI and ML for business applications at UT McCombs
 - 💬&nbsp;Ask me about where to find the best bbq in Austin, TX
 - 📫&nbsp;For more information or to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tomleconey/)
 <br>
