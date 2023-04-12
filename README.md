@@ -2,7 +2,7 @@
 
 ---
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨‍💻 &nbsp;About Me
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F72C6B&width=435&lines=Self-taught+engineer+%26+avid+reader;Full-stack+web+and+app+developer;Always+learning+new+things)](https://git.io/typing-svg)
 
@@ -15,15 +15,6 @@
 - 📫&nbsp;For more information or to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tomleconey/)
 <br>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Some of my tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,nextjs,html,css,graphql,mongodb,postgres,apollo,docker,azure,cs,scala,py,ai,tensorflow,stackoverflow&perline=20)](https://skillicons.dev)
-
-
-
-<!--
-**theTSLC/theTSLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 📫 How to reach me: ... [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tomleconey/)
-
--->
