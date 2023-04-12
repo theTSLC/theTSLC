@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F72C6B&width=435&lines=Self-taught+engineer+%26+avid+reader;Full-stack+web+and+app+developer;Always+learning+new+things)](https://git.io/typing-svg)
 
-- 💻 &nbsp;I am a software engineer with more than 7 years of professional experience delivering modern and performant software prodcuts
+- 💻 &nbsp;I am a software engineer with more than 7 years of professional experience delivering modern software prodcuts
 
 - 💡&nbsp;I'm passionate about effective collaboration and meaningful communication
 - 🔭&nbsp;I’m currently working on an ecommerce site built with TypeScript, Next.js, GraphQL, Apollo, Keystone, and Node.js
