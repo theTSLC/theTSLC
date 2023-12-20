@@ -9,8 +9,8 @@
 - 💻 &nbsp;I am a software engineer with 7 years of professional experience delivering modern software prodcuts
 
 - 💡&nbsp;I'm passionate about effective collaboration, meaningful communication, and system design
-- 🔭&nbsp;I’m currently working on an ecommerce site built with TypeScript, Next.js, GraphQL, Apollo, Keystone, and Node.js
-- 🌱&nbsp;I’m currently enrolled in a postgraduate program learning how to leverage AI and ML for business applications at UT McCombs
+- 🔭&nbsp;My most recent project is a chatbot powered by the Assistant API recently released in beta by OpenAI
+- 🌱&nbsp;I’ve recently completed a postgraduate program learning how to leverage AI and ML for business applications at UT McCombs
 - 💬&nbsp;Ask me about where to find the best bbq in Austin, TX
 - 📫&nbsp;For more information or to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tomleconey/)
 <br>
