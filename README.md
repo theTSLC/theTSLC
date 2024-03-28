@@ -11,7 +11,7 @@
 - 💡&nbsp;I'm passionate about effective collaboration, meaningful communication, and system design
 - 🔭&nbsp;My most recent project is a chatbot powered by the Assistant API recently released in beta by OpenAI
 - 🌱&nbsp;I’ve recently completed a postgraduate program learning how to leverage AI and ML for business applications at UT McCombs
-- 💬&nbsp;Ask me about where to find the best bbq in Austin, TX
+- 💬&nbsp;Ask me about where to find the best bbq and breakfast tacos in Austin, TX
 - 📫&nbsp;For more information or to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tomleconey/)
 <br>
 
